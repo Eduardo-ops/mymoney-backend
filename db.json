@@ -1,0 +1,55 @@
+{
+  "despesas": [
+    {
+      "type": "Alimentação",
+      "description": "Mensal",
+      "value": 540.54,
+      "date": "2021-04-05",
+      "id": 1
+    },
+    {
+      "type": "Educação",
+      "description": "Mensal",
+      "value": 770.35,
+      "date": "2021-04-05",
+      "id": 2
+    },
+    {
+      "type": "Casa",
+      "description": "Mensal",
+      "value": 230.75,
+      "date": "2021-04-13",
+      "id": 3
+    },
+    {
+      "type": "Lazer",
+      "description": "Imprevisível",
+      "value": 200.56,
+      "date": "2021-04-17",
+      "id": 4
+    },
+    {
+      "type": "Manutenção",
+      "description": "Raro",
+      "value": 300.56,
+      "date": "2021-04-12",
+      "id": 5
+    },
+    {
+      "type": "teste",
+      "description": "Mensal",
+      "value": 200,
+      "date": "2021-05-10",
+      "id": 6
+    }
+  ],
+  "receitas": [
+    {
+      "type": "Salário",
+      "description": "Mensal",
+      "value": 2500.45,
+      "date": "2021-04-05",
+      "id": 1
+    }
+  ]
+}
